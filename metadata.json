@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Polyglot Subtitle Translator",
+  "description": "A high-performance, multi-threaded subtitle translator (SRT/TXT) designed for specialized contexts like Wuxia, Xianxia, and technical domains. Features batch processing via Gemini API.",
+  "requestFramePermissions": []
+}
